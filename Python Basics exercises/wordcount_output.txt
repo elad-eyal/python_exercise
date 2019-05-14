@@ -13,10 +13,3 @@ to 2
 used 1
 we 6
 what 3
-print_words end
-print_top start
-we 6
-be 3
-what 3
-are 3
-not 3
